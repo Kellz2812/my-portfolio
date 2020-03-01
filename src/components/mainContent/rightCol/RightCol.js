@@ -14,7 +14,7 @@ export default class RightCol extends Component {
                 <Card 
                 title='Pokemon Fight Game' 
                 description='A game I made for my son, who is crazy about Pokemon, to battle his favorite Pokemon.' 
-                link='https://poke-game-react.herokuapp.com/'
+                link='https://poke-battle-react.herokuapp.com/'
                 />
             </RightColWrapper>
         )
